@@ -1,0 +1,23 @@
+{
+  "greeting": "Halo",
+  "name": "Nina",
+  "greetingText": "Bagaimana kabarnya, sayang?",
+  "wishText": "Semoga segala yang kamu inginkan bisa tercapai ❤️",
+  "imagePath": "img/happy-person.png",
+  "text1": "Ciye yang udah tambah tua aja 🥳",
+  "textInChatBox": "Happy birthday Ayang!! Semoga panjang umur bla bla bla...",
+  "sendButtonLabel": "Kirim",
+  "text2": "Aku mau kirim ucapan itu lewat chat WhatsApp.",
+  "text3": "Tapi aku berhenti.",
+  "text4": "Aku sadar aku harus melakukan hal yang",
+  "text4Adjective": "spesial",
+  "text5Entry": "Karena,",
+  "text5Content": "kamu orang yang Spesial",
+  "smiley": ":)",
+  "bigTextPart1": "JA",
+  "bigTextPart2": "DI",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Gimana kamu suka ngga surprise dari aku?",
+  "replayText": "Klik disini kalau mau lihat lagi",
+  "outroSmiley": ":)"
+}
